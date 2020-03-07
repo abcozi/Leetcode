@@ -1,6 +1,6 @@
 # Leetcode
 
-- 167. Two Sum II - Input array is sorted(Easy)
+### Solution to 167. Two Sum II - Input array is sorted(Easy)
 一、使用語言: Python3
 二、Runtime & Memory Usage
 Runtime: 56 ms, faster than 96.89% of Python3 online submissions for Two Sum II - Input array is sorted.
