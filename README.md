@@ -3,8 +3,8 @@
 ### Solution to 167. Two Sum II - Input array is sorted(Easy)
 #### 一、使用語言: Python3 <br>
 #### 二、Runtime & Memory Usage <br>
-	Runtime: 56 ms, faster than <b> 96.89% </b> of Python3 online submissions for Two Sum II - Input array is sorted. <br>
-	Memory Usage: 13.3 MB, less than <b> 100.00% </b> of Python3 online submissions for Two Sum II - Input array is sorted. <br>
+	Runtime: 56 ms, faster than 96.89% of Python3 online submissions for Two Sum II - Input array is sorted. <br>
+	Memory Usage: 13.3 MB, less than 100.00% of Python3 online submissions for Two Sum II - Input array is sorted. <br>
  
 #### 三、解題邏輯<br>
 	使用兩個pointer，初始分別指向陣列頭尾。外層迴圈處理「頭指針」的向後移動，內層迴圈處理「尾指針」的向前移動。
